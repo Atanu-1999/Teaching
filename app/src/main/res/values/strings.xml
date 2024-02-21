@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Teaching</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="skip">SKIP</string>
+    <string name="next">NEXT</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="heading_one">Build your part time or full time Career with this App</string>
+    <string name="heading_two">You are the master of your destiny.\n
+    Take Charge with this App.</string>
+    <string name="heading_three">List your subjects or skills,be found by students across India,get Booking</string>
+
+    <string name="title_one">If you have any SKILL you can EARN.\n Teaching,Sports, Hobby classes now you can build a successful career</string>
+    <string name="title_two">Whether a working professional, struggle,unemployed or a student.you can earn by teaching, training online or offline</string>
+    <string name="title_three">This App helps you Enhance your Earning, It\'s a free to use App, So keep it on your mobile</string>
+
+    <string name="Lorem_txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+
+</resources>

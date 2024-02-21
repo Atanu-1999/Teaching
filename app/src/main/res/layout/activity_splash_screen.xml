@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.SplashScreen"
+    android:layout_alignParentBottom="true"
+    android:background="@drawable/image">
+
+    <!--<TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Welcome To"
+        android:textStyle="bold"
+        android:fontFamily="serif"
+        android:textSize="@dimen/_22sdp"
+        android:textColor="@color/white"
+        android:paddingTop="@dimen/_50sdp"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif"
+        android:gravity="center"
+        android:paddingTop="@dimen/_75sdp"
+        android:text="Education Champ"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_24sdp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif"
+        android:gravity="center"
+        android:text="Design By Atanu Sahoo"
+        android:layout_alignParentBottom="true"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_12sdp"
+        android:paddingBottom="@dimen/_15sdp"/>-->
+
+</RelativeLayout>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.Pages"
+    android:background="@drawable/app_bg">
+
+    <ImageView
+        android:id="@+id/profile_back"
+        android:layout_width="@dimen/_30sdp"
+        android:layout_height="@dimen/_30sdp"
+        android:src="@drawable/ic_baseline_west_24"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:padding="@dimen/_4sdp"
+        android:background="@drawable/arrow_bg"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/layout6">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_40sdp"
+            android:text="Privacy Policy"
+            android:textStyle="bold"
+            android:padding="@dimen/_10sdp"
+            android:textSize="@dimen/_17sdp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@id/layout6">
+
+        <!--<TextView
+            android:id="@+id/txt_page_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Privacy Policy"
+            android:textStyle="bold"
+            android:textSize="@dimen/_17sdp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="@color/black" />-->
+
+        <TextView
+            android:id="@+id/txt_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            android:textSize="@dimen/_15sdp"
+            android:lineSpacingExtra="@dimen/_5sdp"
+            android:layout_margin="@dimen/_10sdp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

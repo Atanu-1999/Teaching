@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779759911532",
+    "project_id": "teachingotp",
+    "storage_bucket": "teachingotp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779759911532:android:c0bc325117bace28780e49",
+        "android_client_info": {
+          "package_name": "com.example.teaching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779759911532-8qapbss7lhd3ossku5r73kv7so2gors4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsU6n68_7TaElEeCL7SghmXQnCZYUGK_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779759911532-8qapbss7lhd3ossku5r73kv7so2gors4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

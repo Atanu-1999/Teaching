@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Ed"
+        android:title="Education Details"/>
+    <item android:id="@+id/time"
+        android:title="Class Time Table"/>
+    <item android:id="@+id/live"
+        android:title="Live Class"/>
+    <item android:id="@+id/doubt"
+        android:title="Doubt Class"/>
+    <item android:id="@+id/notice"
+        android:title="Notice Board"/>
+    <item android:id="@+id/sm"
+        android:title="Study Material"/>
+    <item android:id="@+id/download"
+        android:title="Download"/>
+    <item android:id="@+id/courses"
+        android:title="Courses"/>
+    <item android:id="@+id/activity"
+        android:title="Extracurricular Activity"/>
+    <item android:id="@+id/Refer"
+        android:title="Refer &amp; Earn"/>
+    <item android:id="@+id/help"
+        android:title="Help &amp; Support"/>
+    <item android:id="@+id/about"
+        android:title="About Us"/>
+    <item android:id="@+id/policy"
+        android:title="Privacy Policy"/>
+    <item android:id="@+id/use"
+        android:title="Terms of Use"/>
+
+</menu>
